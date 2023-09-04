@@ -30,7 +30,7 @@ const Inception = () => {
             </a>)}>
                 История о программировании
             </button>
-            <button className='open-btn' onClick={() => openModal(<a href="https://github.com">Ссылка на исходники</a>)}>
+            <button className='open-btn' onClick={() => openModal(<a href="https://github.com/OmgDie/yandex-test">Ссылка на исходники</a>)}>
                 Исходники
             </button>
             <button className='open-btn' onClick={() => openModal(<video controls width="400" src='./assets/videos/css.mp4' />)}>
