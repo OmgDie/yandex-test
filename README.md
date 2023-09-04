@@ -12,7 +12,7 @@
 
 1. Склонируйте репозиторий на свой локальный компьютер:
 
-```bash
+```
 git clone https://github.com/OmgDie/yandex-test.git
 ```
 
