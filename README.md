@@ -18,19 +18,19 @@ git clone https://github.com/OmgDie/yandex-test.git
 
 2. Перейдите в директорию проекта:
 
-```bash
+```
 cd yandex-test
 ```
 
 3. Установите зависимости:
 
-```bash
+```
 npm install
 ```
 
 4. Запустите проект:
 
-```bash
+```
 npm start
 ```
 
